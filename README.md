@@ -1,5 +1,5 @@
 <h1 align="center">Hey There!!! 👋, I'm V Nishita Raju 👩‍💻⌨️</h1>
-<h3 align="center">Code architect by day, web wizard by night, building digital dreams with the perfect blend of backend brilliance and frontend flair.</h3>
+<h3 align="center">Daylight finds me navigating code architecture, while moonlit hours see me crafting captivating web experiences. Merging frontend finesse, backend brilliance, and the predictive power of machine learning, I sculpt evolving digital landscapes.</h3>
 
 <img align="right" alt="coding" width="400" height="300" src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952k6guicudoyjqrcgdxsw3g8r5viuxfhx7pjt983ib&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 - 📫 How to reach me **nishitaraju51@gmail.com**
