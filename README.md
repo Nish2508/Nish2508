@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm V Nishita Raju</h1>
+<h1 align="center">Hey There!!! 👋, I'm V Nishita Raju 👩‍💻⌨️</h1>
 <h3 align="center">Code architect by day, web wizard by night, building digital dreams with the perfect blend of backend brilliance and frontend flair.</h3>
 
 <img align="right" alt="coding" width="400" height="300" src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952k6guicudoyjqrcgdxsw3g8r5viuxfhx7pjt983ib&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
